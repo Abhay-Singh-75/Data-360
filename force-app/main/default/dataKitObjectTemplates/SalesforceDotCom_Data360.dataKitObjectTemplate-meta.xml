@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectTemplate xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <developerName xsi:nil="true"/>
+    <entityPayload>{&quot;devName&quot;:&quot;SalesforceDotCom_Data360&quot;,&quot;masterLabel&quot;:&quot;Salesforce Connector Not Provided Data360&quot;,&quot;dataConnectorType&quot;:&quot;SalesforceDotCom&quot;,&quot;extRecordId&quot;:&quot;00Di8000002yvVm&quot;,&quot;alias&quot;:&quot;Data360&quot;,&quot;dsTenantDevName&quot;:&quot;SalesforceDotCom_Data360&quot;,&quot;dsTenantMasterLabel&quot;:&quot;Copado&quot;,&quot;dsTenantExtRecordId&quot;:&quot;core/prod/00Di8000002yvVmEAI&quot;}</entityPayload>
+    <masterLabel>Salesforce Connector Not Provided Data360</masterLabel>
+    <parentDataPackageKitDefinitionName xsi:nil="true"/>
+    <sourceObject>0hMbm000002VQgDEAW</sourceObject>
+    <sourceObjectType>InternalDataConnector</sourceObjectType>
+    <templateVersion>1</templateVersion>
+</DataKitObjectTemplate>
